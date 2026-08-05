@@ -1,0 +1,4 @@
+interface:
+  display_name: "Collage B-roll Shorts"
+  short_description: "Cross-platform collage B-roll Shorts workflow"
+  default_prompt: "Use $collage-broll-shorts to plan, assemble, and QA a versioned vertical collage B-roll Short without publishing."
